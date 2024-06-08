@@ -1,0 +1,5 @@
+            "Te amo.",
+            "Buen día.",
+            "Vamos al cuarto?",
+            "¡Me alegra verte!",
+            "Te quiero mucho UwU"
